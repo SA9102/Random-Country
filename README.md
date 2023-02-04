@@ -1,3 +1,21 @@
+# Random Country
+
+A very simple React app where a different country is displayed after each button click.
+
+This was my first React app, and was first pushed to GitHub on 4th April 2022.
+
+## Update Log
+
+(Dates are in the format 'dd/mm/yy')
+
+### 04/02/23
+
+Reuploaded most of the files, with changes to the HTML and CSS files.
+
+### 04/04/22
+
+First pushed to GitHub.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
