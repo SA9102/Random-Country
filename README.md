@@ -4,13 +4,17 @@ A very simple React app where a different country is displayed after each button
 
 This was my first React app, and was first pushed to GitHub on 4th April 2022.
 
+[View this project on GitHub Pages](http://SA9102.github.io/Random-Country)
+
 ## Update Log
 
 (Dates are in the format 'dd/mm/yy')
 
 ### 04/02/23
 
-Reuploaded most of the files, with changes to the HTML and CSS files.
+Reuploaded most of the files. Made some changes to the style of the program, as well as adding an 'intro' section.
+
+Also, deployed to GitHub Pages.
 
 ### 04/04/22
 
