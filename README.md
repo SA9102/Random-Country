@@ -10,9 +10,15 @@ This was my first React app, and was first pushed to GitHub on 4th April 2022.
 
 (Dates are in the format 'dd/mm/yy')
 
+### 05/02/23
+
+Changed the default branch from 'master' (which had the previous code) to 'main' (which has the up-to-date code). Deleted 'master' branch.
+
 ### 04/02/23
 
 Reuploaded most of the files. Made some changes to the style of the program, as well as adding an 'intro' section.
+
+Code was uploaded to a new branch called 'main'. Previous code was uploaded to 'master' branch.
 
 Also, deployed to GitHub Pages.
 
